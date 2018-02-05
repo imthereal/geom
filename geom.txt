@@ -3,4 +3,4 @@
 2.0 1.0 3.0                        # center and radius of C
 -2.0 -3.0 5.0                      # center and radius of D
 2.0 6.0 8.0 4.0                    # coord ul and lr of rectangle G
--3.0 2.0 4.0 -3.0                  # coord ul and lr of rectangle H
+-3.0 2.0 4.0 -3.0                  # coord ul and lr of rectangle e
